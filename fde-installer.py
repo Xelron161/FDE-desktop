@@ -15,7 +15,7 @@ def install():
     tk.Label(page2, text="Cloning FDE...").pack()
     root.update()
 
-    os.system("git clone --branch v1.0 --depth 1 https://github.com/Xelron161/FDE-desktop")
+    os.system("git clone https://github.com/Xelron161/FDE-desktop")
 
     tk.Label(page2, text="Installing package...").pack()
     root.update()
