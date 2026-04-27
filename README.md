@@ -4,7 +4,7 @@ FDE is a desktop environment based on ULDE.
 It uses:
 - xcompmgr
 - ULDE components (tint2, openbox, etc.)
-- Telemetry (Firefox, Vim, Wallpaper)
+- UX apps (Firefox, Vim, Wallpaper)
 - Customized Tint2 panel
 
 # How to install:
