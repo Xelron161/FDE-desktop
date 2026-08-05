@@ -8,6 +8,8 @@ It uses:
 - UX apps (Firefox, Vim, Wallpaper)
 - Customized Tint2 panel
 
+## Notice: There will be no more future updates :(
+
 # How to install:
 Option 1:
 1. In terminal, type "sudo apt install lightdm" - this makes logging into FDE easier.
